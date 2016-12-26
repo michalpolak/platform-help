@@ -1,6 +1,6 @@
 ## Média
 
-Základní administrační modul, který umožňuje práci s médii jakožto soubory. 
+Základní administrační modul, který umožňuje práci s médii jakožto soubory (obrázky, dokumenty apod.). 
 
 Soubory (obrázky, dokumenty) nahrané v médiích mohou být použity kdekoliv na webu jako např. na stránkách nebo popisech produktů na eshopu. Zároveň mohou být přímo vidět nebo být pouze ke stažení - chování záleží na nastavení konkrétního souboru.
 
