@@ -3,7 +3,7 @@
 ### Uživatel
 
 #### Detaily
-+ **Křestní jméno** - jméno uživatele
++ **Křestní jméno** - křestní jméno uživatele
 + **Příjmení** - příjmení uživatele
 + **Email** - e-mail uživatele (defaultně slouží jako přihlašovací jméno)
 
@@ -15,7 +15,7 @@
  
 #### Autentifikace
 + **Změnit heslo** - nové heslo
-+ **Potvrzení hesla** - zadání nového heslo znovu pro kontrolu
++ **Potvrzení hesla** - zadání nového heslo znovu pro kontrolu (že je stejné jako první zadání)
 
 
 ### Oprávnění
@@ -27,9 +27,4 @@ U každého uživatele lze nastavit oprávnění také samostatně. Nastavení j
 
 #### Atributy
 
-##### Standardní atributy uživatele eshopu (např zákazníka):
-+ **Telefon** - telefon uživatele
-+ **Souhlasím s obchodními podmínkami** - souhlas s obchod. podmínkami
-+ **Mám zájem o zasílání marketingových sdělení** - souhlas se zasíláním marketingu
-
-
+Editace jednotlivých atributů uživatele.
