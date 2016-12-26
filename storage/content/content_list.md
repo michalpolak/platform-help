@@ -2,7 +2,7 @@
 
 Základní administrační modul, který umožňuje práci s obsahovými bloky. 
 
-Obsahové bloky slouží k editaci prvků webu, které vychází z grafického návrhu a jsou následně zobrazeny na frontendu (např. na homepage, kategorie, detailu produktu) a nemusí být na každém webu. Může se tak například jednat o popis v patičce nebo úvodní text na homepage. Cílem obsahových bloků je tedy umožňit editaci veškerého obsahu na webu a to i takového, který je vlastní třeba i pouze jednomu řešení, či konkrétnímu webu nebo eshopu.
+Obsahové bloky slouží k editaci prvků webu, které vychází z grafického návrhu a jsou následně zobrazeny na frontendu (např. na homepage, kategorie, detailu produktu) a nemusí být na každém webu. Může se tak například jednat o popis v patičce nebo úvodní text na homepage. Cílem obsahových bloků je tedy umožňit editaci veškerého obsahu na webu a to i takového, který je vlastní třeba i pouze konkrétnímu řešení.
 
 
 ##### Práce s výpisem
