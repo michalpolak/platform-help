@@ -2,7 +2,7 @@
 
 Základní administrační modul, který umožňuje práci s uživateli. 
 
-Uživatelé jsou všichni uživatelé (účty) vedení v databázi webu nebo eshopu. Další rozdělení uživatelů vyplývá z nastavení rolí. V administraci například mohou pracovat administrátoři, v nákupním prostřední eshopu mohou nakupovat zákazníci.
+Uživatelé jsou všichni uživatelé (účty) zavedení v systému. Další rozdělení uživatelů vyplývá z nastavení rolí.
 
 
 ##### Přehled uživatelů
