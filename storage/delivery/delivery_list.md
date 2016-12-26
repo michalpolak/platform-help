@@ -1,6 +1,6 @@
 ## Dopravy
 
-Základní eshop modul, který umožňuje práci s dopravami. 
+Modul, který umožňuje práci s dopravami. 
 
 Dopravu je třeba vybrat při každé objednávce. Proto je třeba mít zadanou a správně nastavenou alespoň jednu dopravu. U dopravy může být třeba zásahu programátora a to buď při požadavku propojení (např. s API dopravcem) anebo při propojování s informačním systémem.
 
